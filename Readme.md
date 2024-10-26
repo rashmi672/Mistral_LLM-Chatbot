@@ -16,7 +16,7 @@ This repository provides a step-by-step guide on building a powerful and versati
 
 
 **Prepare Data:**
-For fine-tuning the model we are using **tatsu-lab/alpac** dataset which can be found on [huggingface] (https://huggingface.co/datasets/tatsu-lab/alpaca) website. After this we will clean and preprocess the data to ensure compatibility with the model and move ahead with the fine-tuning step.
+For fine-tuning the model we are using **tatsu-lab/alpac** dataset which can be found on [huggingface](https://huggingface.co/datasets/tatsu-lab/alpaca) website. After this we will clean and preprocess the data to ensure compatibility with the model and move ahead with the fine-tuning step.
 
 **Model Training (Optional):**
 All the training codes are written in colaboratory file. 
