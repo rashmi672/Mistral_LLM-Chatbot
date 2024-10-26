@@ -24,5 +24,4 @@ All the training codes are written in colaboratory file.
 **Model Inference:**
 we can use the provided scripts to load the pre-trained Mistral 7B model and perform inference. Experiment with different prompts and parameters to fine-tune the responses.
 
-
 **THANK YOU!!**
