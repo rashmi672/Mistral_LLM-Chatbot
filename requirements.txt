@@ -1,0 +1,4 @@
+flask==3.0.3
+peft==0.12.0
+transformer==4.44.2
+optimum==1.22.0
